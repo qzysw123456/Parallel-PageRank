@@ -1,0 +1,1 @@
+cmp live-serial.out live-parallel.out

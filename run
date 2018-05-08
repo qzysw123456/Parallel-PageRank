@@ -1,0 +1,1 @@
+mpirun -np 32 ./pagerank /export/scratch/CSCI5451_S18/assignment-4/live-journal.graph live-parallel.out
